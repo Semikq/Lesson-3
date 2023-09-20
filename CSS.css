@@ -1,0 +1,46 @@
+.block1 {
+    background-color: aqua;
+    width: 400px;
+    border: 25px solid red;
+    padding-right: 40px;
+    margin-left: 50px;
+    
+}
+
+.block2 {
+    background-color: aqua;
+    width: 400px;
+    border: 25px solid red;
+    padding-right: 40px;
+    margin-left: 50px;
+    box-sizing: border-box;
+}
+
+.block3 {
+    width: 350px;
+    height: 220px;
+    padding: 15px 10px 20px 10px;
+    margin-bottom: 30px;
+    border-style: dashed;
+    border-color: red;
+    border-width: 2px;
+    background-color: green;
+}
+
+.block4 {
+    
+    text-align: justify;
+}
+
+.Pictures1 {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.Pictures2 {
+ float: right ;
+ margin-top: 20px;
+ margin-left: 20px;
+ margin-bottom: 20px;
+}
